@@ -1,5 +1,5 @@
-10/21/2018
-◉Endless random level is done, Now you can keep playing as you wish.
-◉Save Game System is done!
-◉Version update check.
-◉Discord with the developer directly.
+12/1/2018
+◉Character Custom System is Done!
+◉H-Scene Pro Version, toggle First-Person to enjoy!
+◉Enemy more powerful now!
+◉Battle system more funny with collect item now!
